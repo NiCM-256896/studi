@@ -1,1 +1,3 @@
-// Flows will be imported for their side effects in this file.
+import '@/ai/flows/convert-code-snippet.ts';
+import '@/ai/flows/explain-code-snippet.ts';
+import '@/ai/flows/generate-code-snippet.ts';
